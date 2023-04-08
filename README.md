@@ -1,9 +1,9 @@
  <h2>food munch restorent </h2>
     <img src="https://user-images.githubusercontent.com/103720356/230715148-03f9c8b8-1a7f-4ab2-9684-eccdb220544a.png
-" alt="" />
+" alt="" >
 <img src="https://user-images.githubusercontent.com/103720356/230715191-b528f409-516b-4040-beb0-f054a26c7dfc.png
 
-" alt="" />
+" alt=""/ >
 <img src="https://user-images.githubusercontent.com/103720356/230715199-090183c9-0396-4fa3-902c-5d1e9ba3e96e.png
 
 " alt="" />
